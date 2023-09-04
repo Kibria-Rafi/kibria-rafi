@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm G.M. Kibria Rafi</h1>
 <h3 align="center">Studing B.S.C in CSE at Daffodil Internation Univrsity.</h3>
 
-<img align ="right" alt="coding" width =400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibria-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="kibria-rafi" /> </p>
 
