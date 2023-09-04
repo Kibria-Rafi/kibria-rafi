@@ -1,9 +1,6 @@
-### Hi👋 I am Kibria Rafi
-
-
-# Project Title
-
-A brief description of what this project does and who it's for
+Hi👋 I am Kibria Rafi
+web developer.
+studing computer science and Engineering at Daffodil International University.
 
 
 ## Badges
