@@ -24,5 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kibria-rafi&show_icons=true&locale=en" alt="kibria-rafi" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kibria-rafi&" alt="kibria-rafi" /></p>
-<p><img align="center" height="200px" width="250px" src="https://i.ibb.co/VmT06ht/top10lan-1024x576.jpg" alt="kibria-rafi" /></p>
+<p><img align="center" height="300px" width="250px" src="https://i.ibb.co/VmT06ht/top10lan-1024x576.jpg" alt="kibria-rafi" /></p>
 
